@@ -16,15 +16,15 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "2349063382597",
-  SUDO_NUMBERS : "2349081243212",
-  OWNER_NAME: "『 𝑇𝛨𝛯 𝐷𝑈𝛫𝛯 』",
-  BOT_NAME : " 𝑇𝛨𝛯 𝐷𝑈𝛫𝛯 ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "2347015667458",
+  SUDO_NUMBERS : "2347015667458,212617486161",
+  OWNER_NAME: "✞𝙏𝞖𝞢  𝘿𝞢𝝯𝞘𝙇 𝞖𝞘𝞛𝙎𝞢𝙇𝙁ᵍʳᵉʸ✞ꨄ",
+  BOT_NAME : "𝙏𝞖𝞢 𝘿𝞢𝝯𝞘𝙇'𝙎 𝞑𝞗𝙏",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'https://telegra.ph/file/0c5ee699cfe0970548c93.jpg',
+    WELCOME: 'https://telegra.ph/file/97c40bc9736ee502f43bd.jpg',
+    GOODBYE: 'https://telegra.ph/file/9beb774119f7cd7783124.jpg'
   },
   STOP_SEND : {
         WELCOME_MESSAGE : false,
@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© powered by 𝑇𝛨𝛯 𝐷𝑈𝛫𝛯',
+  CAPTION : '© powered by ✞  𝘿𝝯𝞙𝞢 ᵍʳᵉʸ  ✞ꨄ',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
@@ -48,14 +48,14 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
      STATUS : true,
   },
   BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
-  OWNER_REACT : '🤵‍♂️',
+  OWNER_REACT : '💔',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
